@@ -1,0 +1,6 @@
+.vs/
+samuel_leutner_DR4_TP3_dotNet/bin/*
+samuel_leutner_DR4_TP3_dotNet/obj/*
+*.suo
+*.user
+*.sln.docstates
